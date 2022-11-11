@@ -1,2 +1,2 @@
-def claas_attendance():
+def class_attendance():
     print("Hello World")
